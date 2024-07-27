@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: order-processing-system
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/order-processing-system
+    username: admin
+    password: admin@12345
